@@ -1,4 +1,4 @@
-# Ride-Hailing Data Analysis Project
+# Ride-Hailing Analysis
 
 ## 📌 Project Overview
 
@@ -111,7 +111,10 @@ The analysis was carried out using **Excel (Pivot Tables & Visualizations)** to 
 * Ride status (Completed vs Cancelled vs No-show)
 * Time-of-day ride patterns
 
+<img width="2052" height="1150" alt="Dashboard" src="https://github.com/user-attachments/assets/e0d3a6e1-8bff-4134-bd65-e72de6a077a8" />
+
 ---
+
 
 ## 🛠️ Tools Used
 
